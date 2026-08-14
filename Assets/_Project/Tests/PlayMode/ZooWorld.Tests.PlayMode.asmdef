@@ -1,0 +1,17 @@
+{
+  "name": "ZooWorld.Tests.PlayMode",
+  "rootNamespace": "ZooWorld.Tests",
+  "references": [
+    "ZooWorld.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": ["TestAssemblies"]
+}
