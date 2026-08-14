@@ -1,0 +1,19 @@
+{
+  "name": "ZooWorld.Runtime",
+  "rootNamespace": "ZooWorld",
+  "references": [
+    "VContainer",
+    "VContainer.Unity",
+    "UniTask",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
